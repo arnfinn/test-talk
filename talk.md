@@ -2,14 +2,14 @@ name: inverse
 layout: true
 class: center, middle, inverse
 ---
-##A crash course in
-#Parallel Programming
+##This is a test
+#Presentation
 
-.author[Stig Rune Jensen]
+.author[Arnfinn Hykkerud Steindal]
 
-.date[22 November 2017, Narvik]
+.date[21 November 2017, Tromsø]
 
-.footnote[Slides available on [GitHub](https://github.com/stigrj/parallel-programming-talk)]
+.footnote[Slides available on [GitHub](https://github.com/arnfinn/test-talk)]
 
 
 ---
