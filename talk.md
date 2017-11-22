@@ -18,6 +18,7 @@ template: inverse
 # Why?
 
 ---
+layout: false
 class:left
 
 # Explain here:
