@@ -18,6 +18,7 @@ template: inverse
 # Why?
 
 ---
+class:left
 
 # Explain here:
 
